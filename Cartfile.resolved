@@ -1,0 +1,5 @@
+github "Alamofire/Alamofire" "3.4.1"
+github "thoughtbot/Argo" "v3.0.1"
+github "matthewcheok/JSONCodable" "2.1"
+github "CosmicMind/Material" "1.42.4"
+github "thoughtbot/curry" "v2.3.1"
